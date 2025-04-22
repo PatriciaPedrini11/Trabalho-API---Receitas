@@ -1,0 +1,2 @@
+1 - Digitar sempre o nome da receita ou do alimento em inglês;
+2 - Executar sempre pelo Go Live.
